@@ -23,7 +23,7 @@ Before you begin, make sure you have the following installed on your machine:
 2. Navigate to the project directory:
 
    ```bash
-   cd react-quiz
+   cd The-React-Quiz
    ```
 
 3. Install project dependencies:
@@ -46,6 +46,18 @@ Before you begin, make sure you have the following installed on your machine:
    ```
 
 7. Open your web browser and visit http://localhost:3000 to access the React Quiz application.
+
+## What I Have Learned
+
+Throughout the development of The React Quiz project, I've gained valuable experience and knowledge in several key areas:
+
+**1. Reducers**: I've learned how to use reducers in React to manage complex state logic efficiently. Reducers have allowed me to handle state changes more predictably, making my code more maintainable.
+
+**2. Context API**: Working with the Context API has enabled me to create a centralized store for my application's state. This has made it easier to access and manage state across different components, reducing the need for prop drilling.
+
+**3. useEffect**: I've become proficient in using the useEffect hook to manage side effects in my React components. Whether it's fetching data, subscribing to events, or handling clean-up operations, useEffect has proven to be a versatile tool.
+
+**4. Custom Hooks**: I've created custom hooks to encapsulate and share common stateful logic throughout my application. This has not only improved code organization but also allowed for code reuse across various components.
 
 
 ## Acknowledgement
